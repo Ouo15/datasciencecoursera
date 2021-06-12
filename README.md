@@ -1,3 +1,3 @@
 # datasciencecoursera
 First repo.
-Bring R with data science faction to the Actuarial communities. 
+Bring R and data science to the Actuarial communities. 
